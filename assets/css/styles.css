@@ -1,0 +1,450 @@
+.col-form-label {
+  width: 190px;
+  margin: 13px;
+  padding: 7px;
+  border: 3px solid rgb(0,129,188) ;
+}
+
+@media (min-width:370px) {
+  .d-xs-none {
+    display: none!important;
+  }
+}
+
+#Nav-selector {
+  height: 25px;
+  background: rgb(0,129,188);
+  width: 25px;
+  margin-top: 30px;
+  position: relative;
+  z-index: 1;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  color: rgb(166,168,171);
+  padding-top: 3%;
+  padding-right: 0px;
+  padding-left: 4.69%;
+  padding-bottom: 0;
+}
+
+.navbar-brand {
+  padding-top: .455%;
+  padding-bottom: .455%;
+  margin-right: 6%;
+  padding-right: .455%;
+  padding-left: .455%;
+  margin-bottom: 0px;
+}
+
+#img-proq-log {
+  max-width: 100%;
+  min-width: AUTO;
+  width: 95px;
+}
+
+#navcol-2 {
+  padding: 0px;
+  padding-bottom: 0px;
+  font-family: 'Myriad Pro';
+  margin-bottom: 0px;
+}
+
+.navbar-nav {
+  border-style: none;
+  font-family: myriad-pro, sans-serif;
+  font-size: 16pt;
+  max-width: AUTO;
+  margin-top: 30px;
+}
+
+.nav-item {
+  margin-right: 4px;
+  margin-left: 4px;
+  font-size: 16px;
+  line-height: 17px;
+}
+
+.navbar-toggler {
+  border-style: solid;
+  border-color: rgba(255,255,255,0.5);
+}
+
+#home-main-title {
+  font-family: 'Myriad Pro';
+  color: rgb(166,168,171);
+  font-size: 36px;
+  line-height: 38px;
+  font-weight: 300;
+  letter-spacing: 2.2PX;
+  margin-bottom: 12%;
+  margin-top: 5.9%;
+}
+
+.col-sm-6.col-md-6.col-lg-3.col-xl-3.service-square {
+  margin-top: 15px;
+}
+
+.row.row-service {
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 25.5px;
+  padding-left: 25.5px;
+}
+
+.col-xl-12.top-border-service {
+  height: 22px;
+  border-top-style: solid;
+  border-top-color: rgb(0,129,188);
+  border-right-style: solid;
+  border-right-color: rgb(0,129,188);
+  border-left-style: solid;
+  border-left-color: rgb(0,129,188);
+  width: 204px;
+}
+
+.col-xl-12.center-border-service {
+  padding-right: 0;
+  padding-left: 0;
+  width: 204px;
+}
+
+.text-service {
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Myriad Pro';
+  font-weight: normal;
+  width: 204px;
+  margin-right: 0p;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.col-xl-12.bottom-border-service {
+  height: 22px;
+  width: 204px;
+  border-top-style: none;
+  border-top-color: rgb(0,129,188);
+  border-right-style: solid;
+  border-right-color: rgb(0,129,188);
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0,129,188);
+  border-left-style: solid;
+  border-left-color: rgb(0,129,188);
+}
+
+#one-line-service-text {
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Myriad Pro';
+  font-weight: normal;
+  width: 204px;
+  margin-right: 0p;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 48px;
+}
+
+h5 {
+  font-family: 'Myriad Pro';
+  font-style: normal;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 0px;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.banner {
+  min-width: 10%;
+  max-width: 100%;
+}
+
+h3 {
+  letter-spacing: 1.2pt;
+  font-size: 35px;
+  font-family: 'Myriad Pro';
+  font-weight: 300;
+  line-height: 39px;
+  margin-bottom: 4.7%;
+  margin-top: 8.86%;
+}
+
+.number-image {
+  padding-top: 10px;
+}
+
+.number-text {
+  color: rgb(255,255,255);
+  text-align: center;
+  font-family: 'Myriad Pro';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 23px;
+  margin-bottom: 0;
+  margin-top: 7.145%;
+}
+
+#recent-article-image {
+  min-width: 10%;
+  max-width: 100%;
+  min-height: 10%;
+  max-height: 100%;
+  margin-top: -50px;
+}
+
+#recent-article-title {
+  font-size: 28px;
+  text-align: center;
+  font-family: 'Myriad Pro';
+  font-weight: 500;
+  font-style: normal;
+  margin-top: 3%;
+}
+
+#recent-article-date {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 22px;
+  margin-top: 2%;
+}
+
+.col-10.col-sm-10.col-md-7.col-lg-6.col-xl-5.clients-list {
+  margin-top: 2%;
+}
+
+.clients-list-item {
+  border-left-style: none;
+  font-weight: 500;
+  font-family: 'Myriad Pro';
+  font-size: 24px;
+  color: rgb(255,255,255);
+  line-height: 30PT;
+}
+
+#contacto-title {
+  letter-spacing: 2.2pt;
+  font-size: 36px;
+  font-family: 'Myriad Pro';
+  font-weight: 300;
+  line-height: 39px;
+  margin-bottom: 8%;
+  margin-top: 4%;
+}
+
+.col-sm-10.col-md-6.col-lg-5.col-xl-5.item-footer {
+  padding-right: 36px;
+}
+
+.client-description {
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Myriad Pro';
+  line-height: 21pt;
+}
+
+h1 {
+  font-family: 'Myriad Pro';
+  color: rgb(166,168,171);
+  font-size: 36px;
+  line-height: 38px;
+  font-weight: 300;
+  letter-spacing: 2.2PX;
+  margin-bottom: 0PX;
+  margin-top: 0PX;
+  padding-top: 4.3%;
+  padding-bottom: 4.3%;
+}
+
+.about-us-text {
+  font-size: 20px;
+  line-height: 24pt;
+  font-family: 'Myriad Pro';
+  font-style: normal;
+  text-align: justify;
+  border-style: solid;
+  border-color: rgb(64,64,65);
+  padding-top: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+.about-us-title {
+  height: 72px;
+  margin-top: 0px;
+  padding-top: 21px;
+  text-align: center;
+  letter-spacing: 2pt;
+  font-size: 20pt;
+  font-family: 'Myriad Pro';
+  font-style: normal;
+  color: rgb(64,64,65);
+  border-color: rgb(64,64,65);
+}
+
+.value-about-us {
+  text-align: center;
+  font-size: 36PX;
+  font-family: 'Myriad Pro';
+  font-weight: 300;
+  margin-right: 0p;
+  margin-bottom: -5px;
+  margin-left: 0px;
+  margin-top: -5px;
+  letter-spacing: 4PX;
+  background: url("../../assets/img/Marco%20Vision.png") center repeat-y;
+  padding-top: 10px;
+  padding-bottom: 16px;
+  color: rgb(255,255,255);
+  line-height: 44px;
+}
+
+#product-title {
+  margin-top: 0px;
+  margin-right: 0;
+  color: rgb(255,255,255);
+  border-style: none;
+  background: url("../../assets/img/Marco%20AyC1.png") center no-repeat;
+  font-family: 'Myriad Pro';
+  font-size: 21px;
+  padding: 0;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.col-form-label.product-title {
+  margin-top: 0px;
+  margin-right: 0;
+  color: rgb(255,255,255);
+  border-style: none;
+  background: url("../../assets/img/Marco%20PE.png") center no-repeat;
+  font-family: 'Myriad Pro';
+  font-size: 21px;
+  padding: 0;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.col-form-label.product-title {
+  margin-top: 0px;
+  margin-right: 0;
+  color: rgb(255,255,255);
+  border-style: none;
+  background: url("../../assets/img/Marco%20e-commerce.png") center no-repeat;
+  font-family: 'Myriad Pro';
+  font-size: 21px;
+  padding: 0;
+  padding-bottom: 29px;
+  padding-top: 33px;
+}
+
+.product-text {
+  text-align: justify;
+  font-size: 18px;
+  font-family: 'Myriad Pro';
+  padding: 7%;
+  padding-right: 5%;
+  padding-left: 5%;
+  color: #a6a8ab;
+  padding-top: 20px;
+  background: rgb(64,64,65);
+  margin-top: -10px;
+}
+
+.product-image {
+  min-width: auto;
+  max-width: 100%;
+  padding-bottom: 25px;
+}
+
+#post-title {
+  text-align: center;
+  padding-top: 0px;
+  padding-right: 25px;
+  padding-bottom: 0px;
+  padding-left: 25px;
+  font-size: 42px;
+  letter-spacing: 0px;
+  font-family: 'Myriad Pro';
+  font-weight: 300;
+  color: rgb(255,255,255);
+  margin-bottom: 0px;
+  margin-top: 0%;
+}
+
+#post-date {
+  min-width: 10%;
+  max-width: 100%;
+  font-size: 14px;
+  font-weight: normal;
+  margin-bottom: 0%;
+  height: 40px;
+  margin-right: 16%;
+  margin-left: 16%;
+}
+
+#post-image {
+  padding-left: 25%;
+  max-width: 100%;
+  min-width: auto;
+  padding-right: 25%;
+  margin-top: 4.4%;
+}
+
+#post-description {
+  text-align: justify;
+  margin-top: 3.85%;
+  margin-right: 18%;
+  margin-left: 18%;
+  font-size: 21px;
+  font-family: 'Myriad Pro';
+  ;line-height: 23px;
+  padding-bottom: 0px;
+  margin-bottom: 3.85%;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255,255,255);
+}
+
+.related-post-title {
+  margin: 0px;
+  max-width: 100%;
+  font-family: 'Myriad Pro';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 26px;
+  min-width: 10%;
+}
+
+.related-post-date {
+  margin: 0px;
+  font-size: 14px;
+  min-width: 10%;
+  max-width: 100%;
+  line-height: 14px;
+  padding-top: 0px;
+  font-style: normal;
+}
+
+.related-post-divider {
+  height: 3px;
+  background: rgb(255,255,255);
+  margin: 0;
+}
+
+.col-xl-4.related-post-col {
+  padding-top: 3.825%;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.post-title-thumbnail{
+  display: inline !important;
+  text-decoration: none;
+}
+.post-description-thumbnail{
+  display: inline !important;
+  text-decoration: none;
+}
