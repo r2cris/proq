@@ -1,3 +1,6 @@
+*{
+  font-family: 'Myriad Pro';
+}
 .col-form-label {
   width: 190px;
   margin: 13px;
@@ -46,7 +49,7 @@
 #navcol-2 {
   padding: 0px;
   padding-bottom: 0px;
-  font-family: 'Myriad Pro';
+  
   margin-bottom: 0px;
 }
 
@@ -71,7 +74,7 @@
 }
 
 #home-main-title {
-  font-family: 'Myriad Pro';
+  
   color: rgb(166,168,171);
   font-size: 36px;
   line-height: 38px;
@@ -112,7 +115,7 @@
 .text-service {
   text-align: center;
   font-size: 21px;
-  font-family: 'Myriad Pro';
+  
   font-weight: normal;
   width: 204px;
   margin-right: 0p;
@@ -136,7 +139,7 @@
 #one-line-service-text {
   text-align: center;
   font-size: 21px;
-  font-family: 'Myriad Pro';
+  
   font-weight: normal;
   width: 204px;
   margin-right: 0p;
@@ -146,7 +149,7 @@
 }
 
 h5 {
-  font-family: 'Myriad Pro';
+  
   font-style: normal;
   text-align: center;
   font-size: 16px;
@@ -163,7 +166,7 @@ h5 {
 h3 {
   letter-spacing: 1.2pt;
   font-size: 35px;
-  font-family: 'Myriad Pro';
+  
   font-weight: 300;
   line-height: 39px;
   margin-bottom: 4.7%;
@@ -177,7 +180,7 @@ h3 {
 .number-text {
   color: rgb(255,255,255);
   text-align: center;
-  font-family: 'Myriad Pro';
+  
   font-weight: normal;
   font-style: normal;
   font-size: 23px;
@@ -196,7 +199,7 @@ h3 {
 #recent-article-title {
   font-size: 28px;
   text-align: center;
-  font-family: 'Myriad Pro';
+  
   font-weight: 500;
   font-style: normal;
   margin-top: 3%;
@@ -216,7 +219,7 @@ h3 {
 .clients-list-item {
   border-left-style: none;
   font-weight: 500;
-  font-family: 'Myriad Pro';
+  
   font-size: 24px;
   color: rgb(255,255,255);
   line-height: 30PT;
@@ -225,7 +228,7 @@ h3 {
 #contacto-title {
   letter-spacing: 2.2pt;
   font-size: 36px;
-  font-family: 'Myriad Pro';
+  
   font-weight: 300;
   line-height: 39px;
   margin-bottom: 8%;
@@ -239,12 +242,12 @@ h3 {
 .client-description {
   text-align: justify;
   font-size: 18px;
-  font-family: 'Myriad Pro';
+  
   line-height: 21pt;
 }
 
 h1 {
-  font-family: 'Myriad Pro';
+  
   color: rgb(166,168,171);
   font-size: 36px;
   line-height: 38px;
@@ -259,7 +262,7 @@ h1 {
 .about-us-text {
   font-size: 20px;
   line-height: 24pt;
-  font-family: 'Myriad Pro';
+  
   font-style: normal;
   text-align: justify;
   border-style: solid;
@@ -277,7 +280,7 @@ h1 {
   text-align: center;
   letter-spacing: 2pt;
   font-size: 20pt;
-  font-family: 'Myriad Pro';
+  
   font-style: normal;
   color: rgb(64,64,65);
   border-color: rgb(64,64,65);
@@ -286,7 +289,7 @@ h1 {
 .value-about-us {
   text-align: center;
   font-size: 36PX;
-  font-family: 'Myriad Pro';
+  
   font-weight: 300;
   margin-right: 0p;
   margin-bottom: -5px;
@@ -306,7 +309,7 @@ h1 {
   color: rgb(255,255,255);
   border-style: none;
   background: url("../../assets/img/Marco%20AyC1.png") center no-repeat;
-  font-family: 'Myriad Pro';
+  
   font-size: 21px;
   padding: 0;
   padding-bottom: 15px;
@@ -319,7 +322,7 @@ h1 {
   color: rgb(255,255,255);
   border-style: none;
   background: url("../../assets/img/Marco%20PE.png") center no-repeat;
-  font-family: 'Myriad Pro';
+  
   font-size: 21px;
   padding: 0;
   padding-bottom: 15px;
@@ -332,7 +335,7 @@ h1 {
   color: rgb(255,255,255);
   border-style: none;
   background: url("../../assets/img/Marco%20e-commerce.png") center no-repeat;
-  font-family: 'Myriad Pro';
+  
   font-size: 21px;
   padding: 0;
   padding-bottom: 29px;
@@ -342,7 +345,7 @@ h1 {
 .product-text {
   text-align: justify;
   font-size: 18px;
-  font-family: 'Myriad Pro';
+  
   padding: 7%;
   padding-right: 5%;
   padding-left: 5%;
@@ -366,7 +369,7 @@ h1 {
   padding-left: 25px;
   font-size: 42px;
   letter-spacing: 0px;
-  font-family: 'Myriad Pro';
+  
   font-weight: 300;
   color: rgb(255,255,255);
   margin-bottom: 0px;
@@ -398,7 +401,7 @@ h1 {
   margin-right: 18%;
   margin-left: 18%;
   font-size: 21px;
-  font-family: 'Myriad Pro';
+  
   ;line-height: 23px;
   padding-bottom: 0px;
   margin-bottom: 3.85%;
@@ -410,7 +413,7 @@ h1 {
 .related-post-title {
   margin: 0px;
   max-width: 100%;
-  font-family: 'Myriad Pro';
+  
   font-weight: 500;
   font-style: normal;
   font-size: 24px;
@@ -447,4 +450,31 @@ h1 {
 .post-description-thumbnail{
   display: inline !important;
   text-decoration: none;
+}
+#featured-title{
+  font-size: 21px;
+  
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: bold;
+  background: rgb(35,31,32);
+  margin-bottom: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+h4 .post-item-title-home{
+  font-size: 24px !important;
+  text-align: center !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+  margin-top: 6% !important;
+  line-height: 26px !important;
+  margin-right: 20PX !important;
+  margin-left: 20px !important;
+
+}
+
+.post-item-subtitle-home{
+
 }

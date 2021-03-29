@@ -16,7 +16,7 @@ for file in os.listdir("posts"):
         print(os.path.join("posts", file))
         postsLists.append(file)
 
-blog= open("blog.html", "w")
+blog= open("blog.html", "w",encoding="utf-8")
 
 
 thumbnailcontent = ""
@@ -24,7 +24,7 @@ for jsonfile in postsLists:
     tempthumb = thumbTemplate
     temppost = postTemplate
     # lee el archivo json
-    datafile =  open("posts/"+ file, "r")
+    datafile =  open("posts/"+ file, "r",encoding="utf-8")
     # parse post:
     datapost = json.load(datafile)
     print(datapost["titulo"]) 
@@ -37,7 +37,7 @@ for jsonfile in postsLists:
     temppost = temppost.replace('{{date}}',datapost["fecha"])
     temppost = temppost.replace('{{content}}',datapost["contenido"])
     temppost = temppost.replace('{{image}}',"posts/" + file.replace("json","jpg"))
-    temppostHTML= open("blog/" + slugify(datapost["titulo"]) + ".html", "w")
+    temppostHTML= open("blog/" + slugify(datapost["titulo"]) + ".html", "w",encoding="utf-8")
     temppostHTML.write(temppost)
     thumbnailcontent += tempthumb
 
