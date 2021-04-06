@@ -43,7 +43,7 @@
 #img-proq-log {
   max-width: 100%;
   min-width: AUTO;
-  width: 95px;
+  width: 110px;
 }
 
 #navcol-2 {
@@ -447,6 +447,10 @@ h1 {
 .post-title-thumbnail{
   display: inline !important;
   text-decoration: none;
+  font-size: 38px;
+  letter-spacing: 0px;
+  font-weight: 300;
+  color: rgb(255,255,255);
 }
 .post-description-thumbnail{
   display: inline !important;
